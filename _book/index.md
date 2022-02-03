@@ -1,11 +1,11 @@
 --- 
 title: "A Minimal Book Example"
-author: "John Doe"
+author: "Dawn Wright"
 date: "2022-02-03"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
+# url: https://bs4-book-git2.netlify.app/index.html
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
   This is a minimal example of using the bookdown package to write a book.
@@ -16,6 +16,8 @@ csl: chicago-fullnote-bibliography.csl
 ---
 
 # About
+**DEW* bs4 book 2 using GitHub
+**Try 2**
 
 This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
 
